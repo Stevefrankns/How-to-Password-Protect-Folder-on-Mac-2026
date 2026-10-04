@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://password-protect-folder-on-mac.vercel.app/sitemap.xml
